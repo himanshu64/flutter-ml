@@ -1,6 +1,6 @@
 # flutter_ml
 
-Flutter App with Firebase Email ,Password Auth.
+Flutter App with Firebase Email ,Password Auth.<br/>
 Firebase Image Recognition and  Rest API consuption with sqflite for save Data Locally 
 
 
