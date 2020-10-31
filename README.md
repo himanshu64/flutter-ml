@@ -3,7 +3,15 @@
 Flutter App with Firebase Email ,Password Auth.<br/>
 Firebase Image Recognition and  Rest API consuption with sqflite for save Data Locally 
 
+This example shows how to recognize images in the viewfinder and overlay it with images. Furthermore it shows how to recognize multiple different images and how to react on user clicks on the overlaid elements. With these terms in mind let's start by defining what actually should be recognized (target) and create a corresponding target collection that the tracker can use.
+A Flutter plugin to use the capabilities of Firebase ML, which includes all of Firebase's cloud-based ML features, and ML Kit, a standalone library for on-device ML, which can be used with or without Firebase.
 
+# Using an ML Vision Detector 
+1. Create a FirebaseVisionImage
+2. Create an instance of a detector
+3. Call detectInImage() or processImage() with visionImage
+4. Extract data
+5. Release resources with close()
 
 ### Getting Started
 
